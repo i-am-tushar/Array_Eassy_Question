@@ -2,26 +2,34 @@
 
 Welcome to the **Important Questions and Resources** repository! This repository is a collection of important questions along with their corresponding resource links, designed to help students, developers, and anyone interested in enhancing their knowledge and skills in various domains.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Categories](#categories)
-  - [Computer Science](#computer-science)
-  - [Mathematics](#mathematics)
-  - [General Knowledge](#general-knowledge)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
-In this repository, you will find a curated list of important questions across different subjects along with links to resources where you can find the answers or learn more about the topics. This is intended to be a collaborative and evolving resource that benefits the community.
+Hello, I am Tushar Kashyap, a 19-year-old full stack web developer currently pursuing a Bachelor of Science Honours in Computer Science from Jaypee University, Anoopshahr. I am passionate about technology, learning new things, and sharing knowledge with the community. This repository is a reflection of that passion. I hope you find it helpful!
 
 ## Usage
 
 To use this repository, simply navigate to the category of interest and explore the questions and their associated resource links. You can click on the links to access the resources directly.
 
 ## Categories
+
+### Arrays
+
+Arrays are a fundamental data structure in computer science, often used to store lists of elements. Here are some important questions about arrays along with resource links where you can practice and learn more about them:
+
+1. **How do you find the maximum element in an array?**
+   - [Practice on LeetCode](https://leetcode.com/problems/maximum-subarray/)
+   
+2. **How do you reverse an array?**
+   - [Practice on GeeksforGeeks](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+   
+3. **How do you merge two sorted arrays?**
+   - [Practice on HackerRank](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+   
+4. **How do you find the intersection of two arrays?**
+   - [Practice on LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/)
+   
+5. **How do you remove duplicates from an array?**
+   - [Practice on GeeksforGeeks](https://www.geeksforgeeks.org/remove-duplicates-from-a-given-string/)
 
 ### Computer Science
 
@@ -72,6 +80,14 @@ Contributions are welcome! If you have a question or resource that you think sho
 
 Please make sure your contributions are relevant and provide high-quality resources.
 
+## Contact Me
+
+If you have any questions or would like to get in touch, feel free to reach out:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [Your GitHub Profile](https://github.com/your-profile)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -79,3 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 We hope you find this repository helpful! Happy learning!
+
+---
+
+*This repository is maintained by Tushar Kashyap.*
